@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Awesome generator
-        uses: simonecorsi/mawesome@v2
+        uses: simonecorsi/mawesome@latest
         with:
           api-token: ${{ secrets.API_TOKEN }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
