@@ -140,6 +140,10 @@
 *   [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 *   [zhangyuang/ssr](https://github.com/zhangyuang/ssr) - A most advanced ssr framework support React17/React18/Vue2/Vue3 on Earth that implemented serverless-side render specification.
 *   [antfu/eslint-config](https://github.com/antfu/eslint-config) - Anthony's ESLint config preset
+*   [stylelint-types/stylelint-order](https://github.com/stylelint-types/stylelint-order) -
+*   [stylelint-types/stylelint-scales](https://github.com/stylelint-types/stylelint-scales) -
+*   [stylelint-types/stylelint-stylus](https://github.com/stylelint-types/stylelint-stylus) -
+*   [stylelint-types/stylelint-stylistic](https://github.com/stylelint-types/stylelint-stylistic) -
 *   [stylelint-types/stylelint-scss](https://github.com/stylelint-types/stylelint-scss) -
 *   [stylelint-types/stylelint-define-config](https://github.com/stylelint-types/stylelint-define-config) - Provide a defineConfig function for stylelint.config.js files
 *   [antfu/starter-ts](https://github.com/antfu/starter-ts) - Starter template for TypeScript library
@@ -466,10 +470,6 @@
 *   [nksaraf/vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
 *   [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
 *   [stylelint-types/stylelint-codeguide](https://github.com/stylelint-types/stylelint-codeguide) -
-*   [stylelint-types/stylelint-order](https://github.com/stylelint-types/stylelint-order) -
-*   [stylelint-types/stylelint-scales](https://github.com/stylelint-types/stylelint-scales) -
-*   [stylelint-types/stylelint-stylus](https://github.com/stylelint-types/stylelint-stylus) -
-*   [stylelint-types/stylelint-stylistic](https://github.com/stylelint-types/stylelint-stylistic) -
 *   [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 *   [pankajparashar/canidev.tools](https://github.com/pankajparashar/canidev.tools) - It is like @CanIUse but for the browser devtools. Created by @pankajparashar & curated by community.
 *   [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
