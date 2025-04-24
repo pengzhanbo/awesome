@@ -394,7 +394,7 @@
 
 *   [OpenSPG/KAG](https://github.com/OpenSPG/KAG) - KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q\&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.
 *   [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-*   [tadata-org/fastapi\_mcp](https://github.com/tadata-org/fastapi_mcp) - A zero-configuration tool for automatically exposing FastAPI endpoints as Model Context Protocol (MCP) tools.
+*   [tadata-org/fastapi\_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
 *   [google/A2A](https://github.com/google/A2A) - An open protocol enabling communication and interoperability between opaque agentic applications.
 *   [mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) - No fortress, purely open ground.  OpenManus is Coming.
 *   [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
