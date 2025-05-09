@@ -491,7 +491,7 @@
 *   [antfu/vscode-file-nesting-config](https://github.com/antfu/vscode-file-nesting-config) - Config of File Nesting for VS Code
 *   [ireade/caniuse-embed](https://github.com/ireade/caniuse-embed) - 📊 Embed realtime data from caniuse.com
 *   [thysultan/stylis](https://github.com/thysultan/stylis) - light – weight css preprocessor
-*   [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
+*   [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their peak
 *   [wordshub/free-font](https://github.com/wordshub/free-font) - 大概是2020年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中...
 *   [reactjs/react-transition-group](https://github.com/reactjs/react-transition-group) - An easy way to perform animations when a React component enters or leaves the DOM
 *   [zertosh/v8-compile-cache](https://github.com/zertosh/v8-compile-cache) - Require hook for automatic V8 compile cache persistence
