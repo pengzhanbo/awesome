@@ -38,6 +38,7 @@
 
 ## TypeScript
 
+*   [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 *   [uhyo/better-typescript-lib](https://github.com/uhyo/better-typescript-lib) - Better TypeScript standard library
 *   [chibivue-land/chibivue](https://github.com/chibivue-land/chibivue) - chibivue is a minimal vuejs/core implementations (reactivity, virtual dom, component runtime, compiler). An online book for building your own Vue.js.
 *   [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
@@ -626,7 +627,6 @@
 *   [lisong/code-push-server](https://github.com/lisong/code-push-server) - CodePush service is hot update services which adapter react-native-code-push and cordova-plugin-code-push - 热更新
 *   [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) -  JavaScript parser / mangler / compressor / beautifier toolkit
 *   [shen100/mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，界面优雅，功能丰富😛
-*   [http-party/node-portfinder](https://github.com/http-party/node-portfinder) - A simple tool to find an open port or domain socket on the current machine
 
 ## Java
 
