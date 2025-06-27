@@ -117,7 +117,6 @@
 *   [antfu/magic-string-stack](https://github.com/antfu/magic-string-stack) - magic-string with the capability of committing changes.
 *   [antfu/vscode-iconify](https://github.com/antfu/vscode-iconify) - 🙂 Iconify IntelliSense for VS Code
 *   [latentcat/latentbox](https://github.com/latentcat/latentbox) - A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com
-*   [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
 *   [buuing/lucky-canvas](https://github.com/buuing/lucky-canvas) - 🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端
 *   [antfu/eslint-typegen](https://github.com/antfu/eslint-typegen) - Generate types from ESLint rule schemas, with auto-completion and type-checking for rule options.
 *   [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
@@ -169,7 +168,7 @@
 *   [pengzhanbo/tauri-what-up-music](https://github.com/pengzhanbo/tauri-what-up-music) -
 *   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 *   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
-*   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. Powered by State Machines
+*   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. 40+ Framework Agnostic Headless Components
 *   [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 *   [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
 *   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
@@ -539,6 +538,7 @@
 *   [XiaoMi/ha\_xiaomi\_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 *   [InternLM/HuixiangDou](https://github.com/InternLM/HuixiangDou) - HuixiangDou: Overcoming Group Chat Scenarios with LLM-based Technical Assistance
 *   [ermaozi/get\_subscribe](https://github.com/ermaozi/get_subscribe) - ✈️ 白嫖免费机场  / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr 订阅链接，持续更新 | 科学上网 | 翻墙
+*   [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner) - A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.
 *   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 *   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 *   [instantX-research/InstantID](https://github.com/instantX-research/InstantID) - InstantID: Zero-shot Identity-Preserving Generation in Seconds 🔥
