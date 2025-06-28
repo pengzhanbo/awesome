@@ -37,6 +37,7 @@
 
 ## TypeScript
 
+*   [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 *   [un-ts/unuse](https://github.com/un-ts/unuse) - learn once, use everywhere
 *   [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
 *   [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
@@ -336,6 +337,7 @@
 
 ## JavaScript
 
+*   [zhangbo126/threejs-3dmodel-edit](https://github.com/zhangbo126/threejs-3dmodel-edit) - 基于three.js开发的3D模型可视化编辑器 包含模型加载，模型文件导入导出，模型背景图，全景图，模型动画，模型灯光，模型定位，辅助线，模型辉光，模型拖拽，模型拆解， 模型材质等可视化操作编辑系统，模型编辑数据保存预览和代码嵌入 前端技术:Vue3+Typescript+Pinia+Threejs
 *   [janl/mustache.js](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript
 *   [micromatch/braces](https://github.com/micromatch/braces) - Faster brace expansion for node.js. Besides being faster, braces is not subject to DoS attacks like minimatch, is more accurate, and has more complete support for Bash 4.3.
 *   [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
@@ -513,8 +515,6 @@
 *   [vueuse/vue-demi](https://github.com/vueuse/vue-demi) - 🎩 Creates Universal Library for Vue 2 & 3
 *   [postcss/postcss-import](https://github.com/postcss/postcss-import) - PostCSS plugin to inline at-import rules content
 *   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
-*   [vagusX/koa-proxies](https://github.com/vagusX/koa-proxies) - a koa@2.x+ proxy middleware
-*   [Level/level](https://github.com/Level/level) - Universal abstract-level database for Node.js and browsers.
 
 ## Python
 
