@@ -41,6 +41,8 @@
 
 ## TypeScript
 
+*   [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
+*   [preactjs/signals](https://github.com/preactjs/signals) - Manage state with style in every framework
 *   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
 *   [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Module Federation for vite & rollup
 *   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
@@ -604,7 +606,6 @@
 *   [KyLeoHC/project-startup](https://github.com/KyLeoHC/project-startup) -
 *   [webpack/tapable](https://github.com/webpack/tapable) - Just a little module for plugins.
 *   [isaacs/minimatch](https://github.com/isaacs/minimatch) - a glob matcher in javascript
-*   [zkat/npx](https://github.com/zkat/npx) - execute npm package binaries (moved)
 
 ## Rust
 
@@ -755,7 +756,6 @@
 *   [fex-team/styleguide](https://github.com/fex-team/styleguide) - 文档与源码编写风格
 *   [rwaldron/idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 *   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-*   [pengzhanbo/blog](https://github.com/pengzhanbo/blog) - 笔记、文章整理
 
 ## Go
 
