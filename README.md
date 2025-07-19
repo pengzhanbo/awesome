@@ -41,6 +41,7 @@
 
 ## Go
 
+*   [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM/AI application development framework in Golang.
 *   [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 *   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 *   [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -616,7 +617,6 @@
 *   [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
 *   [KyLeoHC/project-startup](https://github.com/KyLeoHC/project-startup) -
 *   [webpack/tapable](https://github.com/webpack/tapable) - Just a little module for plugins.
-*   [isaacs/minimatch](https://github.com/isaacs/minimatch) - a glob matcher in javascript
 
 ## Rust
 
