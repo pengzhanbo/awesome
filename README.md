@@ -17,7 +17,6 @@
 *   [Java](#java)
 *   [Markdown](#markdown)
 *   [HTML](#html)
-*   [Shell](#shell)
 *   [JSON](#json)
 *   [Vue](#vue)
 *   [Ruby](#ruby)
@@ -26,6 +25,7 @@
 *   [Perl](#perl)
 *   [C++](#c-1)
 *   [Astro](#astro)
+*   [Shell](#shell)
 *   [Nunjucks](#nunjucks)
 *   [Zig](#zig)
 *   [Elm](#elm)
@@ -37,10 +37,12 @@
 *   [C#](#c-2)
 *   [Makefile](#makefile)
 *   [Swift](#swift)
-*   [Lua](#lua)
 
 ## TypeScript
 
+*   [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
+*   [mike-marcacci/node-redlock](https://github.com/mike-marcacci/node-redlock) - A node.js redlock implementation for distributed, highly-available redis locks
+*   [Callidon/bloom-filters](https://github.com/Callidon/bloom-filters) - JS implementation of probabilistic data structures: Bloom Filter (and its derived), HyperLogLog, Count-Min Sketch, Top-K and MinHash
 *   [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 *   [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 *   [preactjs/signals](https://github.com/preactjs/signals) - Manage state with style in every framework
@@ -593,8 +595,6 @@
 *   [ElemeFE/page-skeleton-webpack-plugin](https://github.com/ElemeFE/page-skeleton-webpack-plugin) - Webpack plugin to generate the skeleton page automatically
 *   [npm/npm-registry-couchapp](https://github.com/npm/npm-registry-couchapp) - couchapp bits of registry.npmjs.org
 *   [youzan/vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
-*   [kangax/html-minifier](https://github.com/kangax/html-minifier) - Javascript-based HTML compressor/minifier (with Node.js support)
-*   [vuejs/vuepress](https://github.com/vuejs/vuepress) - 📝 Minimalistic Vue-powered static site generator
 
 ## Python
 
@@ -613,6 +613,7 @@
 *   [THUDM/CogView4](https://github.com/THUDM/CogView4) - CogView4, CogView3-Plus and CogView3(ECCV 2024)
 *   [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 *   [QwenLM/Qwen](https://github.com/QwenLM/Qwen) - The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
+*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 *   [YSH0313/HunterX](https://github.com/YSH0313/HunterX) - 这是一个基于 asyncio、aiohttp 构建的高性能异步爬虫框架，支持分布式架构和插件化扩展。框架提供灵活的任务优先级队列（支持 RabbitMQ、Redis 和内存），适用于任意场景下的需求。无论是个人学习还是企业级应用，它都能助您高效完成爬取目标！
 *   [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) -
 *   [XiaoMi/ha\_xiaomi\_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
@@ -812,12 +813,6 @@
 *   [kuitos/import-html-entry](https://github.com/kuitos/import-html-entry) - import html and take over the exports from the scripts
 *   [ftlabs/fastclick](https://github.com/ftlabs/fastclick) - Polyfill to remove click delays on browsers with touch UIs
 
-## Shell
-
-*   [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-*   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-*   [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
-
 ## JSON
 
 *   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
@@ -892,6 +887,11 @@
 *   [pengzhanbo/astro-chinese-poetry](https://github.com/pengzhanbo/astro-chinese-poetry) -
 *   [HubSpot/youmightnotneedjquery](https://github.com/HubSpot/youmightnotneedjquery) -
 
+## Shell
+
+*   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
+
 ## Nunjucks
 
 *   [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
@@ -936,7 +936,3 @@
 ## Swift
 
 *   [shadowsocks/ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - Next Generation of ShadowsocksX
-
-## Lua
-
-*   [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
