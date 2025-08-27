@@ -299,7 +299,7 @@
 *   [pengzhanbo/tauri-what-up-music](https://github.com/pengzhanbo/tauri-what-up-music) -
 *   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 *   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
-*   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build high-quality, accessible design systems. Works in React, Svelte, Vue, and Solid
+*   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build scalable design systems with React, Vue, Solid, and Svelte.
 *   [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 *   [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
 *   [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor) - Vue Vapor is a variant of Vue that offers rendering without the Virtual DOM.
