@@ -394,7 +394,7 @@
 *   [nshen/vite-plugin-wasm-pack](https://github.com/nshen/vite-plugin-wasm-pack) - 🦀 Vite plugin for rust wasm-pack
 *   [vikejs/vike](https://github.com/vikejs/vike) - The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability.
 *   [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
-*   [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
+*   [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
 *   [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 *   [ncipollo/release-action](https://github.com/ncipollo/release-action) - An action which manages a github release
 *   [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
