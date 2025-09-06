@@ -40,6 +40,7 @@
 
 ## Python
 
+*   [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 *   [LuckyOne7777/ChatGPT-Micro-Cap-Experiment](https://github.com/LuckyOne7777/ChatGPT-Micro-Cap-Experiment) - This repo powers my blog experiment where ChatGPT manages a real-money micro-cap stock portfolio.
 *   [shareAI-lab/share-best-prompt](https://github.com/shareAI-lab/share-best-prompt) - 世界上最好的提示词 （总计估值超过300亿的提示词）外国网友x1xh成功获取了 v0、Manus、Cursor、Same.dev 和 Lovable 的完整官方系统提示词和内部工具。
 *   [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
@@ -427,7 +428,6 @@
 *   [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 *   [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 *   [midwayjs/pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
-*   [KyLeoHC/vue-startup](https://github.com/KyLeoHC/vue-startup) - 基于vue+webpack(+typescript)的示例项目
 
 ## miscellaneous
 
