@@ -278,7 +278,7 @@
 *   [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 *   [SuperchupuDev/tinyglobby](https://github.com/SuperchupuDev/tinyglobby) - A fast and minimal alternative to globby and fast-glob
 *   [bloomberg/ts-blank-space](https://github.com/bloomberg/ts-blank-space) - A small, fast, pure JavaScript type-stripper that uses the official TypeScript parser.
-*   [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+*   [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 *   [fskpf/svg2roughjs](https://github.com/fskpf/svg2roughjs) - Create sketchy, hand-drawn-like images from SVGs
 *   [antfu/starter-vscode](https://github.com/antfu/starter-vscode) - Starter template for VS Code Extension
 *   [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
