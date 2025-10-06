@@ -582,7 +582,7 @@
 *   [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 *   [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 *   [vuepress/vuepress-plugin-blog](https://github.com/vuepress/vuepress-plugin-blog) - Official blog plugin for VuePress
-*   [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案
+*   [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ Very easy to use process form table chart solution. 很易用的流程 / 表单 / 表格 / 图表解决方案
 *   [KyLeoHC/thin-ui](https://github.com/KyLeoHC/thin-ui) -
 *   [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 *   [single-spa/single-spa-vue](https://github.com/single-spa/single-spa-vue) - a single-spa plugin for vue.js applications
@@ -718,7 +718,7 @@
 *   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 *   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
 *   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 *   [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
 *   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 *   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
