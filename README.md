@@ -898,7 +898,7 @@
 
 ## MDX
 
-*   [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+*   [nikivdev/nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
 *   [algolia/docsearch](https://github.com/algolia/docsearch) - :blue\_book: The easiest way to add search to your documentation.
 
 ## Elm
