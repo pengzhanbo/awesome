@@ -38,6 +38,7 @@
 
 ## TypeScript
 
+*   [serkodev/markdown-exit](https://github.com/serkodev/markdown-exit) - Fast, customizable Markdown parser and renderer with full CommonMark support. TypeScript rewrite of markdown-it with enhancements.
 *   [TanStack/router](https://github.com/TanStack/router) - 🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
 *   [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 *   [tolking/element-pro-components](https://github.com/tolking/element-pro-components) - A component library for Vue 3 base on element-plus
@@ -371,7 +372,6 @@
 *   [vuepress/vuepress-plugin-blog](https://github.com/vuepress/vuepress-plugin-blog) - Official blog plugin for VuePress
 *   [alibaba/x-render](https://github.com/alibaba/x-render) - 🚴‍♀️ Very easy to use process form table chart solution. 很易用的流程 / 表单 / 表格 / 图表解决方案
 *   [KyLeoHC/thin-ui](https://github.com/KyLeoHC/thin-ui) -
-*   [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 
 ## Go
 
