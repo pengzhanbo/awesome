@@ -81,7 +81,7 @@
 *   [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 *   [volarjs/volar.js](https://github.com/volarjs/volar.js) - 💙🌊
 *   [lunariajs/lunaria](https://github.com/lunariajs/lunaria) - The missing localization management toolchain for open-source projects
-*   [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered CLI for background agents
+*   [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - The local-first agent OS
 *   [unjs/fontaine](https://github.com/unjs/fontaine) - Automatic font fallback based on font metrics
 *   [unjs/get-port-please](https://github.com/unjs/get-port-please) - 🔌 Get an available open port
 *   [unjs/destr](https://github.com/unjs/destr) - 🚀 Faster, secure and convenient alternative for JSON.parse for arbitrary inputs
@@ -923,7 +923,7 @@
 
 ## Handlebars
 
-*   [sunface/beat-ai](https://github.com/sunface/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
+*   [genesismission/beat-ai](https://github.com/genesismission/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
 
 ## CoffeeScript
 
