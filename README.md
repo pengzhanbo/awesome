@@ -433,7 +433,6 @@
 *   [pengzhanbo/utils](https://github.com/pengzhanbo/utils) - 一个常用的工具类库, 无依赖， 任何运行时。
 *   [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 *   [antfu/vue-router-better-scroller](https://github.com/antfu/vue-router-better-scroller) - Enhanced scroll behavior for Vue Router
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 *   [vue-vine/vue-vine](https://github.com/vue-vine/vue-vine) - Another style of writing Vue components.
 *   [pengzhanbo/bundle-preset](https://github.com/pengzhanbo/bundle-preset) -
 *   [monstar-lab-oss/nestjs-starter-rest-api](https://github.com/monstar-lab-oss/nestjs-starter-rest-api) - NestJS Starter Kit. Monolithic Backend. REST API.
@@ -815,6 +814,7 @@
 *   [phoenix-ru/fervid](https://github.com/phoenix-ru/fervid) - All-in-One Vue compiler written in Rust
 *   [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
 *   [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 *   [rust-lang-cn/book-cn](https://github.com/rust-lang-cn/book-cn) - Rust  程序设计语言 中文版——Chinese translation of The Rust Programming Language (Book)
 *   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust.
 *   [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
@@ -923,7 +923,7 @@
 
 ## Handlebars
 
-*   [genesismission/beat-ai](https://github.com/genesismission/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
+*   [OpenGenesisLab/beat-ai](https://github.com/OpenGenesisLab/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
 
 ## CoffeeScript
 
