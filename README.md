@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [Go](#go)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
@@ -15,7 +16,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [Markdown](#markdown)
 *   [C++](#c)
-*   [Vue](#vue)
 *   [C](#c-1)
 *   [Svelte](#svelte)
 *   [Roff](#roff)
@@ -40,6 +40,37 @@
 *   [Swift](#swift)
 *   [Lua](#lua)
 *   [Objective-C](#objective-c)
+
+## Vue
+
+*   [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue) - A Vue 3 renderer specifically built for AI-powered streaming Markdown: Monaco incremental, Mermaid progressive, and KaTeX formula speed, with real-time updates and no jitter, ready to use out of the box.
+*   [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
+*   [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) - An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.
+*   [nimbus-town/nimbus](https://github.com/nimbus-town/nimbus) - A nimble Bluesky web client
+*   [una-ui/una-ui](https://github.com/una-ui/una-ui) - The Atomic UI framework for Nuxt, powered by Unocss engine 💛
+*   [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
+*   [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) - \[Work in Progress] An interactive tutorial and playground for Nuxt
+*   [huchenlei/sd-webui-openpose-editor](https://github.com/huchenlei/sd-webui-openpose-editor) - Openpose editor for ControlNet. Full hand/face support.
+*   [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
+*   [antfu/eslint-flat-config-viewer](https://github.com/antfu/eslint-flat-config-viewer) - A visual tool to help you view and understand your ESLint Flat config.
+*   [hepengwei/visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）
+*   [antfu/qrcode-toolkit](https://github.com/antfu/qrcode-toolkit) - Anthony's QR Code Toolkit for AI generated QR Codes
+*   [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
+*   [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 3 (and 2) reliable, simple and touch-ready panes splitter / resizer.
+*   [pengzhanbo/chatgpt-app](https://github.com/pengzhanbo/chatgpt-app) - chatgpt desktop application
+*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+*   [wswmsword/postcss-mobile-forever](https://github.com/wswmsword/postcss-mobile-forever) - PostCSS 伸缩视图转换插件。PostCSS plugin for viewport scaling. Optimized postcss-px-to-viewport/postcss-pxtorem for mobile.
+*   [pengzhanbo/vitepress-theme-mur](https://github.com/pengzhanbo/vitepress-theme-mur) -
+*   [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange\_book: 根据 RSS 订阅最新前端技术文章并自动分类
+*   [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
+*   [xinlei3166/vitepress-theme-demoblock](https://github.com/xinlei3166/vitepress-theme-demoblock) - 一个基于 Vitepress 的主题插件，它可以帮助你在编写文档的时候增加 Vue 示例。
+*   [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
+*   [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
+*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
+*   [ymm-tech/gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
+*   [nmxiaowei/avue](https://github.com/nmxiaowei/avue) - Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易
+*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+*   [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 
 ## Go
 
@@ -649,7 +680,7 @@
 *   [BetaSu/big-react](https://github.com/BetaSu/big-react) - 跟着我，从0实现React18
 *   [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 *   [nshen/vite-plugin-wasm-pack](https://github.com/nshen/vite-plugin-wasm-pack) - 🦀 Vite plugin for rust wasm-pack
-*   [vikejs/vike](https://github.com/vikejs/vike) - 𝗥𝗲𝗽𝗹𝗮𝗰𝗲𝘀 𝗡𝗲𝘅𝘁.𝗷𝘀/𝗡𝘂𝘅𝘁 🔨 𝘛𝘩𝘦 𝘤𝘰𝘮𝘱𝘰𝘴𝘢𝘣𝘭𝘦 𝘧𝘳𝘢𝘮𝘦𝘸𝘰𝘳𝘬 𝘵𝘰 𝘣𝘶𝘪𝘭𝘥 𝘢𝘥𝘷𝘢𝘯𝘤𝘦𝘥 𝘢𝘱𝘱𝘭𝘪𝘤𝘢𝘵𝘪𝘰𝘯𝘴 𝘸𝘪𝘵𝘩 𝘴𝘵𝘢𝘣𝘪𝘭𝘪𝘵𝘺 𝘢𝘯𝘥 𝘧𝘭𝘦𝘹𝘪𝘣𝘪𝘭𝘪𝘵𝘺.
+*   [vikejs/vike](https://github.com/vikejs/vike) - (Replaces Next.js/Nuxt) 🔨 The composable framework to build advanced applications with stability and flexibility.
 *   [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
 *   [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
 *   [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
@@ -906,36 +937,6 @@
 *   [zhangyuanwei/node-images](https://github.com/zhangyuanwei/node-images) - Cross-platform image decoder(png/jpeg/gif) and encoder(png/jpeg) for Nodejs
 *   [Tencent/Hippy](https://github.com/Tencent/Hippy) - Hippy is designed to easily build cross-platform dynamic apps. 👏
 
-## Vue
-
-*   [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
-*   [DavidHDev/vue-bits](https://github.com/DavidHDev/vue-bits) - An open source collection of animated, interactive & fully customizable Vue components for building stunning, memorable websites.
-*   [nimbus-town/nimbus](https://github.com/nimbus-town/nimbus) - A nimble Bluesky web client
-*   [una-ui/una-ui](https://github.com/una-ui/una-ui) - The Atomic UI framework for Nuxt, powered by Unocss engine 💛
-*   [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
-*   [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) - \[Work in Progress] An interactive tutorial and playground for Nuxt
-*   [huchenlei/sd-webui-openpose-editor](https://github.com/huchenlei/sd-webui-openpose-editor) - Openpose editor for ControlNet. Full hand/face support.
-*   [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
-*   [antfu/eslint-flat-config-viewer](https://github.com/antfu/eslint-flat-config-viewer) - A visual tool to help you view and understand your ESLint Flat config.
-*   [hepengwei/visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）
-*   [antfu/qrcode-toolkit](https://github.com/antfu/qrcode-toolkit) - Anthony's QR Code Toolkit for AI generated QR Codes
-*   [salomonelli/best-resume-ever](https://github.com/salomonelli/best-resume-ever) - :necktie: :briefcase: Build fast :rocket: and easy multiple beautiful resumes and create your best CV ever! Made with Vue and LESS.
-*   [antoniandre/splitpanes](https://github.com/antoniandre/splitpanes) - A Vue 3 (and 2) reliable, simple and touch-ready panes splitter / resizer.
-*   [pengzhanbo/chatgpt-app](https://github.com/pengzhanbo/chatgpt-app) - chatgpt desktop application
-*   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-*   [wswmsword/postcss-mobile-forever](https://github.com/wswmsword/postcss-mobile-forever) - PostCSS 伸缩视图转换插件。PostCSS plugin for viewport scaling. Optimized postcss-px-to-viewport/postcss-pxtorem for mobile.
-*   [pengzhanbo/vitepress-theme-mur](https://github.com/pengzhanbo/vitepress-theme-mur) -
-*   [ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss) - :orange\_book: 根据 RSS 订阅最新前端技术文章并自动分类
-*   [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
-*   [xinlei3166/vitepress-theme-demoblock](https://github.com/xinlei3166/vitepress-theme-demoblock) - 一个基于 Vitepress 的主题插件，它可以帮助你在编写文档的时候增加 Vue 示例。
-*   [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
-*   [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
-*   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
-*   [ymm-tech/gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
-*   [nmxiaowei/avue](https://github.com/nmxiaowei/avue) - Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易
-*   [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
-*   [iview/iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
-
 ## C
 
 *   [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser, powered by WebAssembly
@@ -962,7 +963,6 @@
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
 *   [fizzgate/fizz-gateway-node](https://github.com/fizzgate/fizz-gateway-node) - API聚合网关 An Aggregation API Gateway 大模型网关、API集成、API脱敏、API安全、API溯源、
 *   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
-*   [uknownothingsnow/JsBridge](https://github.com/uknownothingsnow/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
 
 ## JSON
 
