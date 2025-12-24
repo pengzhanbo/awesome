@@ -42,6 +42,7 @@
 
 ## JavaScript
 
+*   [web-platform-dx/baseline-browser-mapping](https://github.com/web-platform-dx/baseline-browser-mapping) - baseline-browser-mapping exposes arrays of browsers compatible with Baseline Widely Available and specified Baseline year feature sets.
 *   [tengge1/ShadowEditor](https://github.com/tengge1/ShadowEditor) - Cross-platform 3D scene editor based on three.js, golang and mongodb for desktop and web. https://tengge1.github.io/ShadowEditor-examples/
 *   [soldair/node-qrcode](https://github.com/soldair/node-qrcode) - qr code generator
 *   [lwsjs/local-web-server](https://github.com/lwsjs/local-web-server) - A lean, modular web server for rapid full-stack development.
@@ -285,7 +286,6 @@
 *   [cubiq/iscroll](https://github.com/cubiq/iscroll) - Smooth scrolling for the web
 *   [ElemeFE/vue-amap](https://github.com/ElemeFE/vue-amap) - 🌍  基于 Vue 2.x 和高德地图的地图组件
 *   [diamont1001/jrQrcode](https://github.com/diamont1001/jrQrcode) - 二维码生成库，把内容生成二维码，以base64编码的图片输出
-*   [rollup/rollup](https://github.com/rollup/rollup) - Next-generation ES module bundler
 
 ## TypeScript
 
