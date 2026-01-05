@@ -228,7 +228,7 @@
 *   [vue-mini/vue-mini](https://github.com/vue-mini/vue-mini) - 基于 Vue 3 的小程序框架。简单，强大，高性能。
 *   [pengzhanbo/rspack-plugin-mock](https://github.com/pengzhanbo/rspack-plugin-mock) - inject api mock server to rspack/rsbuild development server
 *   [un-ts/synckit](https://github.com/un-ts/synckit) - Perform async work synchronously in Node.js/Bun using `worker_threads` with first-class TypeScript and Yarn P'n'P support.
-*   [kermanx/reactive-vscode](https://github.com/kermanx/reactive-vscode) - Vue Reactivity for VSCode Extension API
+*   [kermanx/reactive-vscode](https://github.com/kermanx/reactive-vscode) - Develop VSCode extension with Vue Reactivity API
 *   [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 *   [antfu-collective/unconfig](https://github.com/antfu-collective/unconfig) - A universal solution for loading configurations.
 *   [pengzhanbo/vuepress-plugin-netlify-functions](https://github.com/pengzhanbo/vuepress-plugin-netlify-functions) -
@@ -612,7 +612,7 @@
 *   [pengzhanbo/nextra-docs-templates](https://github.com/pengzhanbo/nextra-docs-templates) - 基于 nextra 的 文档站点 模板，可直接基于此仓库克隆后开始编写站点。
 *   [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
 *   [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
-*   [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. New development has moved to Wami https://github.com/wekan/wami . Non-English translations at https://app.transifex.com/wekan/wekan only.
+*   [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only.
 *   [playcanvas/engine](https://github.com/playcanvas/engine) - Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
 *   [apache/pouchdb](https://github.com/apache/pouchdb) - :kangaroo: - PouchDB is a pocket-sized database.
 *   [npm/node-semver](https://github.com/npm/node-semver) - The semver parser for node (the one npm uses)
