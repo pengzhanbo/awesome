@@ -191,7 +191,7 @@
 *   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
 *   [vitejs/rolldown-vite](https://github.com/vitejs/rolldown-vite) - The WIP version of Vite powered by Rolldown
 *   [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
 *   [llm-tools/embedJs](https://github.com/llm-tools/embedJs) - A NodeJS RAG framework to easily work with LLMs and embeddings
 *   [moeru-ai/xsai](https://github.com/moeru-ai/xsai) - 🤖💬 extra-small AI SDK.
 *   [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
