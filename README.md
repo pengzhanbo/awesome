@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
+*   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [Vue](#vue)
 *   [Python](#python)
@@ -39,12 +39,9 @@
 *   [CoffeeScript](#coffeescript)
 *   [Makefile](#makefile)
 
-## Kotlin
-
-*   [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
-
 ## TypeScript
 
+*   [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 *   [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 *   [antfu/skills](https://github.com/antfu/skills) - Anthony Fu's curated collection of agent skills.
@@ -92,7 +89,6 @@
 *   [originjs/vite-plugin-federation](https://github.com/originjs/vite-plugin-federation) - Module Federation for vite & rollup
 *   [grab/cursor-talk-to-figma-mcp](https://github.com/grab/cursor-talk-to-figma-mcp) - TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
 *   [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
-*   [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 *   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 *   [AttoJS/vue-request](https://github.com/AttoJS/vue-request) - ⚡️ This is a library that can easily help you manage request states, supporting common features such as SWR, polling, error retry, caching, and pagination, etc. ⚡️ 这是一个能够轻松帮助你管理请求状态的库，支持 SWR、轮询、错误重试、缓存、分页等常用功能。
 *   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -275,7 +271,6 @@
 *   [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel.
 *   [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Vue Component Framework
 *   [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 *   [histoire-dev/histoire](https://github.com/histoire-dev/histoire) - ⚡ Fast and beautiful interactive component playgrounds, powered by Vite
 *   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 *   [lukeed/resolve.exports](https://github.com/lukeed/resolve.exports) - A tiny (952b), correct, general-purpose, and configurable `&#34;exports&#34;` and `&#34;imports&#34;` resolver without file-system reliance
@@ -337,7 +332,7 @@
 *   [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 *   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 *   [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
-*   [pengzhanbo/chinese-simple2traditional](https://github.com/pengzhanbo/chinese-simple2traditional) - 中文繁简体互换。支持node端、浏览器端。
+*   [pengzhanbo/chinese-simple2traditional](https://github.com/pengzhanbo/chinese-simple2traditional) - 中文繁简体互换。支持 nodejs、bun、browsers
 *   [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 *   [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 *   [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
@@ -415,6 +410,10 @@
 *   [umijs/qiankun](https://github.com/umijs/qiankun) - 📦 🚀 Blazing fast, simple and complete solution for micro frontends.
 *   [midwayjs/pandora](https://github.com/midwayjs/pandora) - A Manageable, Measurable and Traceable Node.js Application Manager represented by Alibaba powered by TypeScript
 
+## Kotlin
+
+*   [RunanywhereAI/runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
+
 ## JavaScript
 
 *   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
@@ -440,6 +439,7 @@
 *   [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 *   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 *   [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
+*   [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 *   [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 *   [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 *   [forwardemail/superagent](https://github.com/forwardemail/superagent) - Ajax for Node.js and browsers (JS HTTP client). Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
@@ -644,7 +644,6 @@
 *   [gulpjs/liftoff](https://github.com/gulpjs/liftoff) - Launch your command line tool with ease.
 *   [vipshop/ams](https://github.com/vipshop/ams) - AMS是基于 Vue.js 和 Element组件库、通过JSON配置来快速搭建管理后台的一整套前端解决方案
 *   [evrone/postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport) - A plugin for PostCSS that generates viewport units (vw, vh, vmin, vmax) from pixel units. The best choice to create a scalable interface on different displays by one design size.
-*   [cube-ui/vue-create-api](https://github.com/cube-ui/vue-create-api) - Make Vue component's invocation by API.
 
 ## Vue
 
@@ -881,6 +880,7 @@
 ## MDX
 
 *   [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 ## miscellaneous
 
