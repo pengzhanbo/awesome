@@ -41,6 +41,7 @@
 
 ## Python
 
+*   [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Clawdbot"
 *   [adenhq/hive](https://github.com/adenhq/hive) - Outcome driven agent development framework that evolves
 *   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 *   [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) -
@@ -723,7 +724,6 @@
 *   [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
 *   [nmxiaowei/avue](https://github.com/nmxiaowei/avue) - Avue.js2.0是基于现有的element-ui库进行的二次封装，简化一些繁琐的操作，核心理念为数据驱动视图,主要的组件库针对table表格和form表单场景，同时衍生出更多企业常用的组件，达到高复用，容易维护和扩展的框架，同时内置了丰富了数据展示组件，让开发变得更加容易
 *   [gulpjs/liftoff](https://github.com/gulpjs/liftoff) - Launch your command line tool with ease.
-*   [vipshop/ams](https://github.com/vipshop/ams) - AMS是基于 Vue.js 和 Element组件库、通过JSON配置来快速搭建管理后台的一整套前端解决方案
 
 ## Vue
 
