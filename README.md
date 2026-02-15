@@ -509,6 +509,7 @@
 *   [pengzhanbo/open-docs](https://github.com/pengzhanbo/open-docs) - A new Inline Docs Application
 *   [pengzhanbo/what-up-music-solid](https://github.com/pengzhanbo/what-up-music-solid) -
 *   [pengzhanbo/tauri-what-up-music](https://github.com/pengzhanbo/tauri-what-up-music) -
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
 *   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 *   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
 *   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build scalable design systems with React, Vue, Solid, and Svelte.
@@ -810,7 +811,6 @@
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 *   [servo/rust-cssparser](https://github.com/servo/rust-cssparser) - Rust implementation of CSS Syntax Level 3
 *   [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
 *   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 *   [phoenix-ru/fervid](https://github.com/phoenix-ru/fervid) - All-in-One Vue compiler written in Rust
 *   [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
