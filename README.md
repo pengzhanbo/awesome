@@ -426,7 +426,6 @@
 *   [mike-marcacci/node-redlock](https://github.com/mike-marcacci/node-redlock) - A node.js redlock implementation for distributed, highly-available redis locks
 *   [Callidon/bloom-filters](https://github.com/Callidon/bloom-filters) - JS implementation of probabilistic data structures: Bloom Filter (and its derived), HyperLogLog, Count-Min Sketch, Top-K and MinHash
 *   [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
-*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need. A nano Claude Code–like agent, built from 0 to 1
 *   [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) - An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 *   [preactjs/signals](https://github.com/preactjs/signals) - Manage state with style in every framework
 *   [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
@@ -755,7 +754,7 @@
 ## Python
 
 *   [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
-*   [adenhq/hive](https://github.com/adenhq/hive) - Outcome driven agent development framework that evolves
+*   [aden-hive/hive](https://github.com/aden-hive/hive) - Outcome driven agent development framework that evolves
 *   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 *   [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) -
 *   [x-pai/AlphaBot](https://github.com/x-pai/AlphaBot) - AlphaBot - 你的智能股票分析助手
@@ -785,6 +784,7 @@
 *   [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 *   [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 *   [boson-ai/higgs-audio](https://github.com/boson-ai/higgs-audio) - Text-audio foundation model from Boson AI
+*   [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need. A nano Claude Code–like agent, built from 0 to 1
 *   [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 *   [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
