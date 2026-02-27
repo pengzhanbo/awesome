@@ -40,6 +40,7 @@
 
 ## TypeScript
 
+*   [comarkdown/comark](https://github.com/comarkdown/comark) - A high-performance markdown parser and renderer with Vue & React components support.
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 *   [enisdenjo/graphql-ws](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.
 *   [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
@@ -637,7 +638,6 @@
 *   [single-spa/single-spa](https://github.com/single-spa/single-spa) - The router for easy microfrontends
 *   [ant-move/Antmove](https://github.com/ant-move/Antmove) - 小程序转换器，基于支付宝/微信小程序， 轻松地转换成其它平台的小程序。
 *   [plopjs/node-plop](https://github.com/plopjs/node-plop) - programmatic plopping for fun and profit
-*   [neutrinojs/webpack-chain](https://github.com/neutrinojs/webpack-chain) - A chaining API to generate and simplify the modification of Webpack configurations.
 
 ## Rust
 
