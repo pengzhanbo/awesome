@@ -198,7 +198,6 @@
 *   [hepengwei/visualization-collection](https://github.com/hepengwei/visualization-collection) - 🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（持续更新）
 *   [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
 *   [penrose/penrose](https://github.com/penrose/penrose) - Create beautiful diagrams just by typing notation in plain text.
-*   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 *   [lio-mengxiang/mx-design](https://github.com/lio-mengxiang/mx-design) - 最好的react ui组件库教程代码 (The code for the best react component library series tutorial)
 *   [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
 *   [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
@@ -230,7 +229,7 @@
 *   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
 *   [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 *   [chakra-ui/zag](https://github.com/chakra-ui/zag) - Build your design system in React, Solid, Vue or Svelte. Powered by finite state machines
-*   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build scalable design systems with React, Vue, Solid, and Svelte.
+*   [chakra-ui/ark](https://github.com/chakra-ui/ark) - Unstyled, accessible UI components for your design System. Works in React, Vue, Solid, and Svelte.
 *   [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 *   [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic) - Monorepo for ESLint Stylistic plugins and configs
 *   [vuejs/vue-vapor](https://github.com/vuejs/vue-vapor) - Vue Vapor is a variant of Vue that offers rendering without the Virtual DOM.
@@ -374,6 +373,7 @@
 *   [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 *   [pengzhanbo/spearjs](https://github.com/pengzhanbo/spearjs) - 一个 低代码 平台项目，目前开发中。
 *   [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
+*   [vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
 *   [unplugin/unplugin-auto-import](https://github.com/unplugin/unplugin-auto-import) - Auto import APIs on-demand for Vite, Webpack and Rollup
 *   [unjs/unplugin](https://github.com/unjs/unplugin) - Unified plugin system for Vite, Rollup, Webpack, esbuild, Rolldown, and more
 *   [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
@@ -476,7 +476,7 @@
 *   [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 *   [nalgeon/codapi-js](https://github.com/nalgeon/codapi-js) - Interactive code examples for documentation, education and fun.
 *   [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
-*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - Webfunny是一款集全链路监控和埋点系统于一体的大数据分析系统，我们致力于解决线上的疑难杂症和精细化分析业务数据；监控系统面向技术、埋点系统面向业务，两者配合使用，相得益彰。
+*   [a597873885/webfunny\_monitor](https://github.com/a597873885/webfunny_monitor) - 【免费社区版】【企业版】Webfunny是一款集全链路监控和埋点系统于一体的大数据分析系统，我们致力于解决线上的疑难杂症和精细化分析业务数据；监控系统面向技术、埋点系统面向业务，两者配合使用，相得益彰。
 *   [e18e/e18e](https://github.com/e18e/e18e) -
 *   [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback.
 *   [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
@@ -612,7 +612,6 @@
 *   [kirillmurashov/vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize) - Vue2 && Vue3 Component for resize and drag elements
 *   [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 *   [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) - IPFS implementation in JavaScript
-*   [vuejs/eslint-plugin-vue](https://github.com/vuejs/eslint-plugin-vue) - Official ESLint plugin for Vue.js
 *   [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 *   [lgwebdream/FE-Interview](https://github.com/lgwebdream/FE-Interview) - 🔥🔥🔥 前端面试，独有前端面试题详解，前端面试刷题必备，1000+前端面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器
 *   [greensock/GSAP](https://github.com/greensock/GSAP) - GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web
@@ -734,6 +733,7 @@
 *   [una-ui/una-ui](https://github.com/una-ui/una-ui) - The Atomic UI framework for Nuxt, powered by Unocss engine 💛
 *   [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 *   [nuxt/learn.nuxt.com](https://github.com/nuxt/learn.nuxt.com) - \[Work in Progress] An interactive tutorial and playground for Nuxt
+*   [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 *   [huchenlei/sd-webui-openpose-editor](https://github.com/huchenlei/sd-webui-openpose-editor) - Openpose editor for ControlNet. Full hand/face support.
 *   [nuxt/devtools](https://github.com/nuxt/devtools) - Unleash Nuxt Developer Experience
 *   [antfu/eslint-flat-config-viewer](https://github.com/antfu/eslint-flat-config-viewer) - A visual tool to help you view and understand your ESLint Flat config.
