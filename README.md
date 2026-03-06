@@ -567,7 +567,7 @@
 *   [youhunwl/TVAPP](https://github.com/youhunwl/TVAPP) -  收集全网 Android TV电视盒子应用，涵盖影视、直播、K歌、工具、游戏等类型，整理优质APK资源，支持便捷下载与自动更新。提供安全验证、分类索引与兼容性标注，助力用户打造家庭影音娱乐中心！              ✅ TVBox/影视仓等影音壳接口配置源。
 *   [pengzhanbo/skills](https://github.com/pengzhanbo/skills) -
 *   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-*   [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Cowork, and beyond.
+*   [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 *   [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 *   [crispvibe/Windsurf-Tool](https://github.com/crispvibe/Windsurf-Tool) - Windsurf-Tool 一键切号，一键查询积分，一键导入，批量注册，获取绑卡链接，自动绑卡免费使用。 适用于Mac Windows 完全开源 | 本地运行 | 无后端服务器
 *   [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action) - GitHub Action to generate GitHub Readme Stats cards.
