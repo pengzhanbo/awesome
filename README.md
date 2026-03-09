@@ -42,7 +42,7 @@
 
 *   [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 *   [huggingface/skills](https://github.com/huggingface/skills) -
-*   [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+*   [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 *   [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 *   [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 *   [aden-hive/hive](https://github.com/aden-hive/hive) - Outcome driven agent development framework that evolves
@@ -559,6 +559,7 @@
 
 *   [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 *   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
+*   [ubugeeei/vize](https://github.com/ubugeeei/vize) - Unofficial High-Performance Vue.js Toolchain in Rust
 *   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 *   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 *   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -618,7 +619,6 @@
 *   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 *   [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 *   [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
-*   [ubugeeei/vize](https://github.com/ubugeeei/vize) - Unofficial High-Performance Vue.js Toolchain in Rust
 *   [crispvibe/Windsurf-Tool](https://github.com/crispvibe/Windsurf-Tool) - Windsurf-Tool 一键切号，一键查询积分，一键导入，批量注册，获取绑卡链接，自动绑卡免费使用。 适用于Mac Windows 完全开源 | 本地运行 | 无后端服务器
 *   [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action) - GitHub Action to generate GitHub Readme Stats cards.
 *   [web-platform-dx/baseline-browser-mapping](https://github.com/web-platform-dx/baseline-browser-mapping) - baseline-browser-mapping exposes arrays of browsers compatible with Baseline Widely Available and specified Baseline year feature sets.
