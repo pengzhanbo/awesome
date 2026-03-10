@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
-*   [Shell](#shell)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
@@ -37,6 +37,17 @@
 *   [CoffeeScript](#coffeescript)
 *   [C#](#c-2)
 *   [Makefile](#makefile)
+
+## Shell
+
+*   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
+*   [espressif/esp-csi](https://github.com/espressif/esp-csi) - Applications based on Wi-Fi CSI (Channel state information), such as indoor positioning, human detection
+*   [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by performing tasks from simple file operations to complex workflow automation.
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
+*   [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
+*   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
 
 ## Python
 
@@ -175,16 +186,6 @@
 *   [amdjs/amdjs-api](https://github.com/amdjs/amdjs-api) - Houses the Asynchronous Module Definition API
 *   [SocialSisterYi/bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) -
 
-## Shell
-
-*   [espressif/esp-csi](https://github.com/espressif/esp-csi) - Applications based on Wi-Fi CSI (Channel state information), such as indoor positioning, human detection
-*   [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by performing tasks from simple file operations to complex workflow automation.
-*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-*   [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
-*   [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
-*   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-*   [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
-
 ## TypeScript
 
 *   [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
@@ -201,7 +202,7 @@
 *   [vueuse/skills](https://github.com/vueuse/skills) - Agent Skills for VueUse
 *   [npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev) - a fast, modern browser for the npm registry
 *   [21st-dev/1code](https://github.com/21st-dev/1code) - Orchestration layer for coding agents (Claude Code, Codex)
-*   [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
+*   [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cowork.
 *   [zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro) - 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词
 *   [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 *   [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.
@@ -482,6 +483,7 @@
 *   [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 *   [cypress-io/cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 *   [cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue) - 实现最简 vue3 模型( Help you learn more efficiently vue3 source code )
+*   [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 *   [loopbackio/loopback-next](https://github.com/loopbackio/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
 *   [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 *   [missive/emoji-mart](https://github.com/missive/emoji-mart) - 🏪 One component to pick them all
@@ -883,12 +885,10 @@
 *   [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 *   [wswmsword/postcss-mobile-forever](https://github.com/wswmsword/postcss-mobile-forever) - PostCSS 伸缩视图转换插件。PostCSS plugin for viewport scaling. Optimized postcss-px-to-viewport/postcss-pxtorem for mobile.
 *   [pengzhanbo/vitepress-theme-mur](https://github.com/pengzhanbo/vitepress-theme-mur) -
-*   [Akryum/vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) - ⚡️ Blazing fast scrolling for any amount of data
 *   [xinlei3166/vitepress-theme-demoblock](https://github.com/xinlei3166/vitepress-theme-demoblock) - 一个基于 Vitepress 的主题插件，它可以帮助你在编写文档的时候增加 Vue 示例。
 *   [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
 *   [antfu-collective/icones](https://github.com/antfu-collective/icones) - ⚡️ Icon Explorer with Instant searching, powered by Iconify
 *   [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
-*   [ymm-tech/gods-pen](https://github.com/ymm-tech/gods-pen) - 基于vue的高扩展在线网页制作平台，可自定义组件，可添加脚本，可数据统计。A mobile page builder/editor, similar with amolink.
 
 ## C++
 
@@ -1023,7 +1023,7 @@
 
 ## Handlebars
 
-*   [OpenGenesisLab/beat-ai](https://github.com/OpenGenesisLab/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
+*   [genesislab-ai/beat-ai](https://github.com/genesislab-ai/beat-ai) - 🚀 Beat AI 简报: 持续分享 AI 领域的关键进展，帮你征服 AI，Just beat it!  欢迎 star 订阅.
 
 ## CoffeeScript
 
