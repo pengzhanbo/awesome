@@ -31,7 +31,6 @@
 *   [Zig](#zig)
 *   [Elm](#elm)
 *   [Dart](#dart)
-*   [OCaml](#ocaml)
 *   [Haskell](#haskell)
 *   [Handlebars](#handlebars)
 *   [CoffeeScript](#coffeescript)
@@ -91,7 +90,7 @@
 
 ## TypeScript
 
-*   [wanikua/boluobobo-ai-court-tutorial](https://github.com/wanikua/boluobobo-ai-court-tutorial) - AI 朝廷搭建完整教程 - 从零基础到进阶
+*   [wanikua/danghuangshang](https://github.com/wanikua/danghuangshang) - AI 朝廷搭建完整教程 - 从零基础到进阶
 *   [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 *   [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 *   [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
@@ -612,6 +611,7 @@
 *   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 *   [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 *   [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+*   [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 *   [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command.
 *   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
@@ -953,7 +953,7 @@
 
 *   [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
 ## C
 
@@ -1012,10 +1012,6 @@
 ## Dart
 
 *   [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-
-## OCaml
-
-*   [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 
 ## Haskell
 
