@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -21,7 +22,6 @@
 *   [Markdown](#markdown)
 *   [C](#c-1)
 *   [Roff](#roff)
-*   [Java](#java)
 *   [JSON](#json)
 *   [Ruby](#ruby)
 *   [Dockerfile](#dockerfile)
@@ -35,6 +35,13 @@
 *   [Handlebars](#handlebars)
 *   [CoffeeScript](#coffeescript)
 *   [C#](#c-2)
+
+## Java
+
+*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
+*   [fizzgate/fizz-gateway-node](https://github.com/fizzgate/fizz-gateway-node) - API聚合网关 An Aggregation API Gateway 大模型网关、API集成、API脱敏、API安全、API溯源、
+*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 
 ## miscellaneous
 
@@ -91,7 +98,6 @@
 ## TypeScript
 
 *   [wanikua/danghuangshang](https://github.com/wanikua/danghuangshang) - AI 朝廷搭建完整教程 - 从零基础到进阶
-*   [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 *   [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 *   [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 *   [comarkdown/comark](https://github.com/comarkdown/comark) - A high-performance markdown parser and renderer with Vue & React components support.
@@ -466,6 +472,7 @@
 *   [cft0808/edict](https://github.com/cft0808/edict) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
 *   [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 *   [huggingface/skills](https://github.com/huggingface/skills) -
+*   [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 *   [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 *   [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 *   [aden-hive/hive](https://github.com/aden-hive/hive) - Outcome driven agent development framework that evolves
@@ -835,7 +842,6 @@
 *   [http-party/node-portfinder](https://github.com/http-party/node-portfinder) - A simple tool to find an open port or domain socket on the current machine
 *   [nklayman/vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) - Easily Build Your Vue.js App For Desktop With Electron
 *   [luin/medis](https://github.com/luin/medis) - 💻 Medis is a beautiful, easy-to-use Mac database management application for Redis.
-*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 
 ## Go
 
@@ -965,12 +971,6 @@
 ## Roff
 
 *   [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-
-## Java
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现
-*   [fizzgate/fizz-gateway-node](https://github.com/fizzgate/fizz-gateway-node) - API聚合网关 An Aggregation API Gateway 大模型网关、API集成、API脱敏、API安全、API溯源、
-*   [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler
 
 ## JSON
 
