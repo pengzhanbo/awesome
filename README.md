@@ -39,6 +39,7 @@
 ## TypeScript
 
 *   [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+*   [wanikua/danghuangshang](https://github.com/wanikua/danghuangshang) - AI 朝廷搭建完整教程 - 从零基础到进阶
 *   [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 *   [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 *   [comarkdown/comark](https://github.com/comarkdown/comark) - A high-performance markdown parser and renderer with Vue & React components support.
@@ -555,7 +556,6 @@
 
 ## Shell
 
-*   [wanikua/danghuangshang](https://github.com/wanikua/danghuangshang) - AI 朝廷搭建完整教程 - 从零基础到进阶
 *   [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 *   [espressif/esp-csi](https://github.com/espressif/esp-csi) - Applications based on Wi-Fi CSI (Channel state information), such as indoor positioning, human detection
 *   [iflow-ai/iflow-cli](https://github.com/iflow-ai/iflow-cli) - iFlow cli is a comprehensive command-line intelligence that embeds in your terminal, analyzes your repositories, does coding tasks, interprets your needs across contexts, and boosts efficiency by performing tasks from simple file operations to complex workflow automation.
@@ -1019,7 +1019,7 @@
 
 ## Handlebars
 
-*   [beatai-org/BeatAI](https://github.com/beatai-org/BeatAI) - 专属于软件开发工程师的 AI 宝典。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !
+*   [beatai-org/BeatAI](https://github.com/beatai-org/BeatAI) - 一个简单有趣纯粹的 AI 学习社区，点击试试👇
 
 ## CoffeeScript
 
