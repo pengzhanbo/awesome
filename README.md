@@ -431,7 +431,7 @@
 *   [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 *   [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) - :books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)
 *   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-*   [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
+*   [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 *   [golang/go](https://github.com/golang/go) - The Go programming language
 
 ## JavaScript
@@ -651,6 +651,7 @@
 *   [lisong/code-push-server](https://github.com/lisong/code-push-server) - CodePush service is hot update services which adapter react-native-code-push and cordova-plugin-code-push - 热更新
 *   [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) -  JavaScript parser / mangler / compressor / beautifier toolkit
 *   [shen100/mili](https://github.com/shen100/mili) - mili 是一个开源的社区系统，界面优雅，功能丰富😛
+*   [http-party/node-portfinder](https://github.com/http-party/node-portfinder) - A simple tool to find an open port or domain socket on the current machine
 
 ## Python
 
@@ -812,7 +813,6 @@
 ## Rust
 
 *   [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
-*   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 *   [auvred/golar](https://github.com/auvred/golar) - Embedded language tooling orchestrator based on typescript-go
 *   [ubugeeei/vize](https://github.com/ubugeeei/vize) - Unofficial High-Performance Vue.js Toolchain in Rust
 *   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
