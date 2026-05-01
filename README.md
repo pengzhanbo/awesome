@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [TypeScript](#typescript)
@@ -11,7 +12,6 @@
 *   [Go](#go)
 *   [Java](#java)
 *   [Shell](#shell)
-*   [Rust](#rust)
 *   [Vue](#vue)
 *   [C++](#c)
 *   [Swift](#swift)
@@ -35,6 +35,68 @@
 *   [Handlebars](#handlebars)
 *   [CoffeeScript](#coffeescript)
 *   [C#](#c-2)
+
+## Rust
+
+*   [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
+*   [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+*   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
+*   [auvred/golar](https://github.com/auvred/golar) - Embedded language tooling orchestrator based on typescript-go
+*   [ubugeeei/vize](https://github.com/ubugeeei/vize) - Unofficial High-Performance Vue.js Toolchain in Rust
+*   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
+*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+*   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
+*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+*   [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
+*   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
+*   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
+*   [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+*   [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
+*   [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
+*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+*   [servo/rust-cssparser](https://github.com/servo/rust-cssparser) - Rust implementation of CSS Syntax Level 3
+*   [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
+*   [phoenix-ru/fervid](https://github.com/phoenix-ru/fervid) - All-in-One Vue compiler written in Rust
+*   [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
+*   [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+*   [rust-lang-cn/book-cn](https://github.com/rust-lang-cn/book-cn) - Rust  程序设计语言 中文版——Chinese translation of The Rust Programming Language (Book)
+*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
+*   [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
+*   [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
+*   [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
+*   [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
+*   [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
+*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
+*   [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
+*   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
+*   [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
+*   [rustcn-org/rust-algos](https://github.com/rustcn-org/rust-algos) - <\<Rust算法题解>>，用Rust语言实现常见的算法和数据结构，以及leetcode题解，algos = algorithms，written with ❤️ by course.rs team
+*   [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
+*   [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
+*   [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
+*   [mozilla/rkv](https://github.com/mozilla/rkv) - A simple, humane, typed key-value storage solution.
+*   [pjtatlow/jammdb](https://github.com/pjtatlow/jammdb) - Just Another Memory Mapped Database
+*   [seladb/pickledb-rs](https://github.com/seladb/pickledb-rs) - PickleDB-rs is a lightweight and simple key-value store. It is a Rust version for Python's PickleDB
+*   [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) - A cargo subcommand for displaying when Rust dependencies are out of date
+*   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+*   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
+*   [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
+*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+*   [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
+*   [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
+*   [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+*   [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command.
+*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 
 ## JavaScript
 
@@ -252,7 +314,6 @@
 *   [ci010/electron-vue-next](https://github.com/ci010/electron-vue-next) - A starter template for using vue-next with the electron.
 *   [liyupi/daxigua](https://github.com/liyupi/daxigua) - 最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！
 *   [lisong/code-push-server](https://github.com/lisong/code-push-server) - CodePush service is hot update services which adapter react-native-code-push and cordova-plugin-code-push - 热更新
-*   [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) -  JavaScript parser / mangler / compressor / beautifier toolkit
 
 ## Python
 
@@ -713,7 +774,7 @@
 
 ## miscellaneous
 
-*   [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
+*   [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 *   [nirholas/fresh-start](https://github.com/nirholas/fresh-start) - The original nirholas/claude-code before DMCA and take down. Once everything is cleared, it will return. Working with Anthropic and Github to get everything back.
 *   [supper-skills/develpment-skills](https://github.com/supper-skills/develpment-skills) - Turn your ideas into production-ready code. One sentence is all it takes to start building.
 *   [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
@@ -721,7 +782,7 @@
 *   [supper-skills/doc-skills](https://github.com/supper-skills/doc-skills) -
 *   [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 *   [timofurrer/awesome-asyncio](https://github.com/timofurrer/awesome-asyncio) - A curated list of awesome Python asyncio frameworks, libraries, software and resources
-*   [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
+*   [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 *   [Chenyu-otf/chenyuluoyan\_thin](https://github.com/Chenyu-otf/chenyuluoyan_thin) - 「辰宇落雁體」是我與韋辰在學校的自主學習計畫，由韋辰負責書寫，我進行後製而成。手寫字型就像是我們將字詞複寫於紙上，讓字跡留下，以這種近似雋永的形式封裝，使被複寫的日常沒有保存期限，也像是一種永恆的召喚，在任何無法抵達的以後，都能為你書寫成篇。
 *   [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 *   [pengzhanbo/awesome](https://github.com/pengzhanbo/awesome) - my awesome, generated by my github stars
@@ -807,67 +868,6 @@
 *   [a2aproject/A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 *   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 *   [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) -
-
-## Rust
-
-*   [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
-*   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
-*   [auvred/golar](https://github.com/auvred/golar) - Embedded language tooling orchestrator based on typescript-go
-*   [ubugeeei/vize](https://github.com/ubugeeei/vize) - Unofficial High-Performance Vue.js Toolchain in Rust
-*   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-*   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-*   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-*   [KonghaYao/cn-font-split](https://github.com/KonghaYao/cn-font-split) - 划时代的字体切割工具，CJK与任何字符！支持 otf、ttf、woff2 字体多线程切割，完美地细颗粒度地进行包大小控制。A revolutionary font subetter that supports CJK and any characters! It enables multi-threaded subset of otf, ttf, and woff2 fonts, allowing for precise control over package size.
-*   [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-*   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-*   [pdeljanov/Symphonia](https://github.com/pdeljanov/Symphonia) - Pure Rust multimedia format demuxing, tag reading, and audio decoding library
-*   [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
-*   [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
-*   [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-*   [DioxusLabs/taffy](https://github.com/DioxusLabs/taffy) - A high performance rust-powered UI layout library
-*   [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
-*   [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-*   [servo/rust-cssparser](https://github.com/servo/rust-cssparser) - Rust implementation of CSS Syntax Level 3
-*   [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
-*   [phoenix-ru/fervid](https://github.com/phoenix-ru/fervid) - All-in-One Vue compiler written in Rust
-*   [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
-*   [crablang/crab](https://github.com/crablang/crab) - A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy!
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-*   [rust-lang-cn/book-cn](https://github.com/rust-lang-cn/book-cn) - Rust  程序设计语言 中文版——Chinese translation of The Rust Programming Language (Book)
-*   [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of high-performance JavaScript tools.
-*   [wasm-bindgen/wasm-bindgen](https://github.com/wasm-bindgen/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
-*   [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
-*   [serde-rs/json](https://github.com/serde-rs/json) - Strongly typed JSON library for Rust
-*   [serde-rs/serde](https://github.com/serde-rs/serde) - Serialization framework for Rust
-*   [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
-*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-*   [wooorm/markdown-rs](https://github.com/wooorm/markdown-rs) - CommonMark compliant markdown parser in Rust with ASTs and extensions
-*   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
-*   [seanmonstar/reqwest](https://github.com/seanmonstar/reqwest) - An easy and powerful Rust HTTP Client
-*   [rustcn-org/rust-algos](https://github.com/rustcn-org/rust-algos) - <\<Rust算法题解>>，用Rust语言实现常见的算法和数据结构，以及leetcode题解，algos = algorithms，written with ❤️ by course.rs team
-*   [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
-*   [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) - Format Rust code
-*   [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
-*   [mozilla/rkv](https://github.com/mozilla/rkv) - A simple, humane, typed key-value storage solution.
-*   [pjtatlow/jammdb](https://github.com/pjtatlow/jammdb) - Just Another Memory Mapped Database
-*   [seladb/pickledb-rs](https://github.com/seladb/pickledb-rs) - PickleDB-rs is a lightweight and simple key-value store. It is a Rust version for Python's PickleDB
-*   [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) - A cargo subcommand for displaying when Rust dependencies are out of date
-*   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-*   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-*   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
-*   [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
-*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-*   [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
-*   [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
-*   [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-*   [Wulf/create-rust-app](https://github.com/Wulf/create-rust-app) - Set up a modern rust+react web app by running one command.
-*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
-*   [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 
 ## Vue
 
