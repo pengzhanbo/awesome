@@ -162,7 +162,7 @@
 *   [antfu/markdown-it-async](https://github.com/antfu/markdown-it-async) - Enhance markdown-it to support async highlight function.
 *   [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 *   [qifi-dev/qrs](https://github.com/qifi-dev/qrs) - Stream data through multiple series of QR codes
-*   [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A way to manage your versioning and changelogs with a focus on monorepos
+*   [changesets/changesets](https://github.com/changesets/changesets) - 🦋 A tool to manage versioning and changelogs with a focus on monorepos
 *   [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 *   [milomg/reactively](https://github.com/milomg/reactively) -
 *   [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals) - 👾 The lightest signal library
@@ -316,7 +316,7 @@
 *   [pengzhanbo/vue-mana-hooks](https://github.com/pengzhanbo/vue-mana-hooks) -
 *   [pengzhanbo/vue-mana-shared](https://github.com/pengzhanbo/vue-mana-shared) -
 *   [pengzhanbo/pengzhanbo.cn](https://github.com/pengzhanbo/pengzhanbo.cn) - 个人博客
-*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Full-Stack Vue Framework.
+*   [nuxt/nuxt](https://github.com/nuxt/nuxt) - the full-stack Vue framework
 *   [wechat-miniprogram/api-typings](https://github.com/wechat-miniprogram/api-typings) - Type definitions for APIs of Wechat Mini Program in TypeScript
 *   [mattpocock/ts-reset](https://github.com/mattpocock/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
 *   [bombshell-dev/clack](https://github.com/bombshell-dev/clack) - Effortlessly build beautiful command-line apps
