@@ -720,7 +720,7 @@
 *   [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 *   [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 *   [auvred/golar](https://github.com/auvred/golar) - Embedded language tooling orchestrator based on typescript-go
-*   [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - High-Performance Vue.js Toolchain in Rust. "Vue-specific" part Compiler, Linter, Type Checker, Formatter, LSP, Story System, Editor Extensions. This already passed 6000+ test suites, includes real world E2E.
+*   [ubugeeei-prod/vize](https://github.com/ubugeeei-prod/vize) - Blazing fast Vue.js Toolchain. Compiler, Linter, Type Checker, Formatter, LSP, Story System, Editor Extensions. This already passed 7000+ test suites, includes real world E2E.
 *   [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 *   [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 *   [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
@@ -863,7 +863,7 @@
 *   [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 *   [2025Emma/vibe-coding-cn](https://github.com/2025Emma/vibe-coding-cn) -
 *   [x-pai/AlphaBot](https://github.com/x-pai/AlphaBot) - AlphaBot - 你的智能股票分析助手
-*   [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for long-running agentic tasks. Crash-proof markdown plans, deterministic completion gate, multi-agent shared state on disk. Works with Claude Code, Codex CLI, Cursor, Hermes agent, Pi, Kiro, OpenCode and 60+ agents via the SKILL.md standard.
+*   [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running agentic tasks. Crash-proof markdown plans that survive context loss and /clear, plus a deterministic completion gate and multi-agent shared state on disk. Manus-style. Works with Claude Code, Codex CLI, Cursor, Kiro, OpenCode and 60+ agents via the SKILL.md standard.
 *   [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 *   [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 *   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
